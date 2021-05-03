@@ -1,0 +1,21 @@
+!SESSION 2021-05-04 01:05:43.484 -----------------------------------------------
+eclipse.buildId=Version 1.5.1
+java.version=1.8.0_272
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-05-04 01:06:01.645
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-05-04 01:06:01.792
+!MESSAGE Log4j initialized with config file C:\Video\UART\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-05-04 01:06:06.226
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2021-05-04 01:06:07.523
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-05-04 01:08:21.436
+!MESSAGE Indexed 'UART_DMA_CallBack' (21 sources, 80 headers) in 8.06 sec: 4,244 declarations; 22,860 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0074%)
